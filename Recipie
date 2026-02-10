@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Oatmeal Chocolate No-Bake Cookies</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Oatmeal Chocolate No-Bake Cookies</h1>
+
+  <p>
+    Oatmeal chocolate no-bake cookies are a quick and delicious treat that
+    requires no oven time. They combine rich chocolate, creamy peanut butter,
+    and hearty oats for an easy dessert that sets in minutes.
+  </p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>2 cups sugar</li>
+    <li>½ cup milk</li>
+    <li>½ cup butter</li>
+    <li>¼ cup cocoa powder</li>
+    <li>½ cup peanut butter</li>
+    <li>3 cups quick oats</li>
+    <li>1 tsp vanilla extract</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>In a saucepan, combine sugar, milk, butter, and cocoa powder.</li>
+    <li>Bring the mixture to a boil over medium heat.</li>
+    <li>Let it boil for 1 minute, then remove from heat.</li>
+    <li>Stir in peanut butter and vanilla until smooth.</li>
+    <li>Add oats and mix until fully combined.</li>
+    <li>Drop spoonfuls of the mixture onto wax paper.</li>
+    <li>Allow cookies to cool and set before serving.</li>
+  </ol>
+
+</body>
+</html>
