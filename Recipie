@@ -39,3 +39,30 @@
 
 </body>
 </html>
+
+body {
+  background-color: #f5efe6;
+  font-family: Georgia, serif;
+  margin: 40px;
+  color: #3b2f2f;
+}
+
+h1 {
+  color: #6b3e26;
+}
+
+p {
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+li {
+  margin-bottom: 8px;
+}
